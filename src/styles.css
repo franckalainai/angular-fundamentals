@@ -34,3 +34,4 @@ button {
 .toast-warning {
   background-color: #f89406;
 }
+.nav.navbar-nav {font-size: 15px}
